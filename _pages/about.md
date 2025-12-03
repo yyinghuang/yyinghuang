@@ -18,7 +18,6 @@ Publications and Preprints
 ======
 
 -Y. Huang (with Zelai Hao, [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for the beta-transformations. Replaced by an upcoming new preprint, ([arXiv:2502.12269](https://arxiv.org/abs/2502.12269)). 46 pages. (PDF)
-
 -Y. Huang (with [Oliver Jenkinson](https://webspace.maths.qmul.ac.uk/o.m.jenkinson/), [Zhiqiang Li](https://www.math.pku.edu.cn/teachers/lizq/)), Ergodic optimization for Gauss's continued fraction map. In preparation.
 
 
