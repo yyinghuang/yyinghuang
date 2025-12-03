@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yinying Huang / Homepage"
+title                    : "Yinying Huang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yinying"
+  name             : "Yinying Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Phd student"
   location         : "Beijing, China"
-  employer         : "Red Brick University"
+  employer         : "Peking University"
   uri              : # URL
   email            : "miaoyan@stu.pku.edu.cn" 
 
